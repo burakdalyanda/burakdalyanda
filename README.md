@@ -4,38 +4,51 @@ Hi 👋 My name is Burak Dalyanda
 PHP Software Developer
 ----------------------
 
-I am a seasoned PHP web developer with over 12 years of experience in the field. My journey began with a curiosity for web development in 2006, which I pursued as a hobby until realizing that it was my preferred career path. I have since built a successful career as a freelance full-stack web developer, with a focus on backend development. In addition to my technical skills, I have also pursued education in UI design to enhance my frontend abilities. I have worked with a variety of graphic design agencies to gain a strong foundation in this area. Throughout my career, I have made a conscious effort to stay current with the latest trends, architectures, and standards in the industry. I have a strong commitment to following best practices, as demonstrated by my adoption of the MVC architectural pattern and OOP approach in my PHP work. I am proficient in a range of web development projects, including flow control automations, CRM platforms, e-commerce software, and third-party service integrations. I pride myself on my ability to deliver high-quality solutions for my clients.
+I am a dedicated PHP software developer with over 12 years of professional experience. My passion for web development began in 2006 as a hobby and soon evolved into a fulfilling career. Over the years, I have specialized in developing robust and efficient backend solutions while maintaining strong full-stack capabilities.
+
+I excel at creating scalable and high-performance applications, particularly CRM platforms, SaaS-based solutions, e-commerce software, and API integrations. My recent work includes developing Laravel packages for team-based data filtering, access control, and advanced query optimization. I am also experienced in implementing multi-tenancy features and designing seminar modules with modern and interactive UI/UX elements. My commitment to delivering high-quality, maintainable, and secure code has been a cornerstone of my career.
 
 * 🌍  I'm based in Kayseri, TURKEY
-* 🖥️  See my portfolio at [burakdalyanda.dev](http://burakdalyanda.dev)
-* ✉️  You can contact me at [contact@burakdalyanda.dev](mailto:contact@burakdalyanda.dev)
-* 🚀  I'm currently working on [CRM System & Work Suite (project code name: Core.work)](http://worksuit.burakdalyanda.dev)
-* 🧠  I'm learning JavaScript librarys (React JS, Vue.js)
-* 🤝  I'm open to collaborating on Web-based applications; CRM, CMS or E-commerce software
-* ⚡  To be versatile, I lost my hair 🤷‍♂️
+* 🔤  Currently working on [Laravel Team Guard Package](https://github.com/burakdalyanda/laravel-team-guard) and other custom Laravel packages
+* ✉️  Contact me at [burak.dalyanda@hotmail.com](mailto:burak.dalyanda@hotmail.com)
+* 🔄  Always learning and improving my skills in JavaScript frameworks (Vue.js, React)
+* ⚜️  Open to collaborations on web-based applications, especially CRM, CMS, or e-commerce software
+* ⚡  Fun fact: My versatility in solving problems might have cost me my hair 🤷‍♂️
 
 ### Skills
 
-
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
+### Selected Project Contributions
+
+- **Laravel Team Guard Package**
+  - Developed a Laravel package for team-based access control and data filtering
+  - Optimized performance with caching and dynamic query generation
+  - Enabled seamless role and permission integration for multi-team scenarios
+
+- **Multi-Tenancy System**
+  - Implemented global scopes for tenant-specific data management
+  - Automated tenant configuration using `SaaSServiceProvider`
+  - Enhanced database scalability with tenant-based partitioning
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/burakdalyanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/burakdalyanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/burakdalyanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://www.github.com/burakdalyanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/burakdalyanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/burakdalyanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
